@@ -21,7 +21,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 ## Data Structure & Initial Checks
 
 <p align="center">
-    <img src="images/datastructureRFM.png" width="400" height="700">
+    <img src="images/coffeeshopdatastruct.png" width="300" height="600">
 </p>
 
 # Executive Summary
@@ -31,7 +31,6 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 <p align="center">
     <img src="images/coffeeshopA(1).png" width="700" height="500">
 </p>
-## Overview of Findings
 
 
 ## Insights Deep Dive
