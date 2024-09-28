@@ -1,4 +1,3 @@
-# Coffee_Shop_Overview
 
 # Project Background
 
