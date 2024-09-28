@@ -28,6 +28,10 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 ## Overview of Findings
 
+- The coffee shop generated $241.5K in total sales, with hot beverages dominating the top-selling products, particularly the Hot Flat White and Hot Cappuccino.
+- Casa Luna performed steadily, while Paradigm Mall contributed the most sales overall.
+- Weekend are the busiest while peak-hours are between 9am - 12pm.
+  
 <p align="center">
     <img src="images/coffeeshopA(1).png" width="700" height="500">
 </p>
@@ -35,16 +39,23 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 ## Insights Deep Dive
 
-- Every month, sales for all outlets saw an increment ranging from 10% to 30% (except for February).
-- We can also found that hot drinks are more popular that iced drinks by 10%, knowing the fact that this cafe is specialized in Coffee House.
+### Peak Hours and Days
+
+- Monday and Wednesdays have the lowest sales figures at $29.84K and $26.09K respectively while the weekend have the highest sales figures.
+- Peak sales occur between 9 AM and 12 PM, which is the most significant period for sales revenue and sales are consistently lower in the afternoon (after 12 PM) and evening.
+
+### Sales Overview:
+
+- **Sales by Store:** Paradigm Mall is the highest revenue driver with $146.1K, indicating strong performance at this location. Monitoring individual store performance will help understand regional preferences and sales trends.
+- **Product Performance:** Hot beverages are the top revenue generators, with Hot Flat White accounting for 19.02% of total hot beverage sales. This then followed by cake desserts and cold beverages.
 
 ## Recommendation
 
 Based on the insights derived from RFM analysis, here are strategic recommendations:
 
 **1. Promotional Analysis:**
-   - Consider offering discounts or cross-selling promotion during peak hours to boost sales and enhance customer experience.
-   - 
+   - Consider offering cross-selling promotion during peak hours to boost sales and introduce less popular item that costumers might interested
+   - Offering discounts especially during less popular days which could improve traffic during off-peak days.
 
 **2. Key Performance Indicators (KPIs):**
 - Establish KPIs to measure the success of marketing efforts, customer satisfaction, and staff efficiency.
@@ -53,7 +64,7 @@ Based on the insights derived from RFM analysis, here are strategic recommendati
 
 **3. Peak Hour Identification and Dynamic Scheduling:** 
 - Implement a flexible staffing model based on sales forecasts for peak hours. Utilize historical data to create more effective shift schedules, reducing wait times and improving service quality.
-
+- During peak-off hours, reducing staffing or offering happy hour deals during these periods could help increase foot traffic.
 # Conclusion
 
 As conclusion, this analysis can help sales and marketing department in identifying the popular demand by customer for each store, find out whether the choice of beverages condition and type of products has anything to do with the operation hour or day and overall performance of each stores.
